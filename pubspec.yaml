@@ -31,12 +31,17 @@ dependencies:
   shared_preferences: any
   image_picker: any
   image_cropper: any
-  city_pickers: any
+#  city_pickers: any
   connectivity: any
   fluwx_pay_only: any
   flutter_html: ^0.10.1+hotfix.1
   flutter_slidable: ^0.5.3
   flutter_slidable_list_view: ^1.2.8
+  city_pickers:
+    path: ../xwapp/city_pickers-0.1.30
+
+
+
 
 
 
